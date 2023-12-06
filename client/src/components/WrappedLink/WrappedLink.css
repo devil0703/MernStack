@@ -1,0 +1,16 @@
+.WrappedButton {
+    float: right;
+    padding: 6px 12px;
+}
+
+.WrappedLink {
+    height: 100%;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+}
+
+.WrappedLink:hover {
+    color: white;
+    text-decoration: none;
+}
